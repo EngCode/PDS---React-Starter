@@ -1,0 +1,59 @@
+/*==== Design Options ====*/
+:root {
+    /*==== Global ====*/
+    --body-bg: var(--primary-offwhite);
+    --icons-font: "Font Awesome 5";
+
+    /*==== Primary Color ====*/
+    --primary-color: #36479E;
+    --primary-hover: #3B52C2;
+    --primary-reverse: #FFFFFF;
+    --primary-offwhite: #E1EAF7;
+    --offwhite-border: #a8c2e0;
+    --primary-offwhite-2: #EEF5FF;
+
+    /*==== Secondary Color ====*/
+    --secondary-color: #1AA3A3;
+    --secondary-hover: #20BEBE;
+    --secondary-reverse: #000000;
+    --secondary-offwhite: #fddfa8;
+
+    /*==== Gradients ====*/
+    --primary-gradient: var(--primary-color), var(--primary-hover);
+    --secondary-gradient: var(--secondary-color), var(--secondary-hover);
+    --success-gradient: #22B567, #00A186;
+    --warning-gradient: #FAD934, #F49D1A;
+    --danger-gradient: #FD875B, #F9515A, #F96AAC;
+    --water-gradient: #00C4FF, #1A69F4;
+    --ice-gradient: #54AEFC, #3289E9, #5848D2;
+    --fire-gradient: #FFD500, #FAA10B, #F4291A;
+    --purple-gradient: #8772F7, #5F48DD;
+
+    /*=== Assets Colors ====*/
+    --links-color: var(--primary-color);
+    --info-color: #816CF3;
+    --gray-color: #C9CFD4;
+    --dark-color: #1C1C27;
+    --success-color: #22B567;
+    --danger-color: #DE3131;
+    --warning-color: #FAD934;
+    --disable-color: #ebebeb;
+
+    /*=== Assets Lighter ====*/
+    --info-light: #CECCF9;
+    --gray-light: #d9dde1;
+    --dark-light: #28293D;
+    --success-light: #C1EED9;
+    --danger-light: #fbbbbb;
+    --warning-light: #FFE875;
+
+    /*==== Typography Colors ====*/
+    --typography-color: #838BB6;
+    --light-reverse: #1C1C27;
+    --dark-reverse: #FFFFFF;
+
+    /*==== Index Order ====*/
+    --header-index: 999991;
+    --modal-index: 999999;
+    --dropdown-index: 999998;
+}
