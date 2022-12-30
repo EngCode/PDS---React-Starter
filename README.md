@@ -1,6 +1,6 @@
 # Getting Started
 
-This project was bootstrapped with Create React App and Phenix Design System and its a starter template to start
+This project was bootstrapped with Create React App and [Phenix Design System](https://design.phenixthemes.com) and its a starter template to start
 buidling React apps with the help of phenix design system framework for styling and building UI elements.
 
 ## Available Scripts
